@@ -1,10 +1,11 @@
 ## Disclaimer
 
-This project is provided **strictly for educational and authorized red-team research purposes**. It is intended to help security professionals understand, analyze, and improve defensive capabilities.
+This C2 client is provided **solely for legitimate security research, training, and authorized red-team operations**. Its purpose is to help defenders understand command-and-control mechanisms and strengthen detection, prevention, and response strategies.
 
-**You are solely responsible for how you use this tool.**  
-Any misuse — including unauthorized access, exploitation, or any activity that violates laws, regulations, or terms of service — is entirely the responsibility of the user.
+**Any use of this software in environments where you do not have explicit, written permission is strictly prohibited.**  
+Unauthorized access, exploitation, deployment, or misuse of this tool may violate laws and can result in criminal or civil penalties.
 
-The repository owner, contributors, and maintainers **do not condone or support illegal activities** and **assume no liability** for any harm, damage, or legal consequences resulting from the misuse of this project.
+The repository owner, contributors, and maintainers **do not endorse or take responsibility for any illegal or unethical activities** carried out with this software.  
+All responsibility for proper, lawful usage rests entirely with the user.
 
-**Use only in environments where you have explicit permission.**
+**Use responsibly, ethically, and only in controlled environments with authorization.**
