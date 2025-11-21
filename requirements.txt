@@ -1,0 +1,4 @@
+redis==4.5.4
+Pillow==10.0.0
+pygame==2.5.0
+tkinter
